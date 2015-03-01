@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Chapter8Swift/main.swift"
+            timestampString = "434600796.290424"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "248"
+            endingLineNumber = "248">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Chapter8Swift/main.swift"
+            timestampString = "434601023.617923"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "bucketSort(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chapter8Swift.bucketSort (Chapter8Swift.PassableArray&lt;Swift.Float&gt;) -&gt; (L : Chapter8Swift.LinkedList&lt;Swift.Float&gt;)"
+                  moduleName = "Chapter8Swift"
+                  urlString = "file:///Users/ethanlillie/Documents/Code:QS/Algorithms:DataStructures/Chapter8Swift/Chapter8Swift/main.swift"
+                  timestampString = "434601204.686515"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "139"
+                  endingLineNumber = "139"
+                  offsetFromSymbolStart = "5943">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chapter8Swift.bucketSort (Chapter8Swift.PassableArray&lt;Swift.Float&gt;) -&gt; (L : Chapter8Swift.LinkedList&lt;Swift.Float&gt;)"
+                  moduleName = "Chapter8Swift"
+                  urlString = "file:///Users/ethanlillie/Documents/Code:QS/Algorithms:DataStructures/Chapter8Swift/Chapter8Swift/main.swift"
+                  timestampString = "434601204.686725"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "139"
+                  endingLineNumber = "139"
+                  offsetFromSymbolStart = "6075">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
